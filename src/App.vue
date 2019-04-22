@@ -16,7 +16,8 @@
     </nav>
 
     <div v-if="(!selectedUrbanArea && !selectedCategoryIndex) && !selectedCategory">
-      <img src="https://cdnb.artstation.com/p/media_assets/images/images/000/204/827/large/NEWCITIY01-S.jpg?1522210659" alt="cartoon-city-scape">
+      <img src="https://cdnb.artstation.com/p/assets/images/images/007/608/523/large/beeple-9-26-17.jpg?1507296641" alt="cartoon-city-scape">
+      <!-- <img src="https://cdnb.artstation.com/p/media_assets/images/images/000/204/827/large/NEWCITIY01-S.jpg?1522210659" alt="cartoon-city-scape"> -->
     </div>
 
     <div id="urban-area-data">
@@ -202,6 +203,9 @@ img {
 @media all and (max-width: 700px){
   h1 {
     font-size: 2em;
+  }
+  nav {
+    flex-direction: column;
   }
 }
 

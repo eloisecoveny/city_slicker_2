@@ -53,7 +53,8 @@ select:active, select:hover {
 
 @media all and (max-width: 700px){
   select {
-    margin: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
 }
 
