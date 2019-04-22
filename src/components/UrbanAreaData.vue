@@ -67,6 +67,7 @@ export default {
 .gchart {
   padding: 0;
   margin: 0;
+  width: 100%;
 }
 
 img {
