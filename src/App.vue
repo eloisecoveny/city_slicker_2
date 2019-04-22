@@ -186,5 +186,23 @@ img {
   margin: 0;
   padding: 0;
 }
+@media all and (max-width: 1050px) {
+  h1 {
+    font-size: 4em;
+  }
+}
+
+@media all and (max-width: 1000px){
+  h1 {
+    font-size: 4em;
+  }
+}
+
+@media all and (max-width: 700px){
+  h1 {
+    font-size: 3em;
+  }
+}
+
 
 </style>
