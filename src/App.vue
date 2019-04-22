@@ -167,18 +167,24 @@ nav {
   flex-direction: row;
   justify-content: center;
   width: 100%;
-  padding: 10px;
+  /* padding: 10px; */
   background-color: rgb(255, 231, 216);
 }
 
 h1 {
   font-family: 'Nova Round', cursive;
-  font-size: 50px;
+  font-size: 5em;
   cursor: pointer;
 }
 
+option {
+  width: inherit;
+}
+
 img {
-  object-fit: cover;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 </style>
