@@ -182,10 +182,6 @@ h1 {
   padding: 0;
 }
 
-option {
-  width: inherit;
-}
-
 img {
   width: 100%;
   margin: 0;
@@ -207,11 +203,6 @@ img {
   h1 {
     font-size: 2em;
   }
-
-  urban-areas-list, category-list {
-    width: inherit;
-  }
-
 }
 
 
