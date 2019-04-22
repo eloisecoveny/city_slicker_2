@@ -171,15 +171,15 @@ nav {
   background-color: rgb(255, 231, 216);
 }
 
-urban-areas-list, category-list {
-  width: inherit;
-}
-
 h1 {
   font-family: 'Nova Round', cursive;
-  font-size: 5em;
+  font-size: 3em;
   cursor: pointer;
   padding: 0;
+}
+
+urban-areas-list, category-list {
+  width: inherit;
 }
 
 img {
