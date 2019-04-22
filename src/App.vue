@@ -207,6 +207,11 @@ img {
   h1 {
     font-size: 2em;
   }
+
+  urban-areas-list, category-list {
+    width: inherit;
+  }
+
 }
 
 
