@@ -51,4 +51,10 @@ select:active, select:hover {
   outline-color: none;
 }
 
+@media all and (max-width: 700px){
+  select {
+    margin: 5px;
+  }
+}
+
 </style>
