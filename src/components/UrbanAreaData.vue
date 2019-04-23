@@ -82,7 +82,7 @@ h2 {
   padding: 5px;
   margin-top: 70px;
   margin-bottom: 0px;
-  font-size: 35px;
+  font-size: 2em;
 }
 
 p {
